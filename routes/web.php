@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Blog\BlogController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -32,21 +33,17 @@ Route::get('/about', function(){
 
 Route::get('/youtube', function(){
     return view('youtube', [
-        'title_website' => 'About'
+        'title_website' => 'YouTube'
     ]);
 });
 
 Route::get('/archive', function(){
     return view('archive', [
-        'title_website' => 'About'
+        'title_website' => 'Archive'
     ]);
 });
 
-Route::get('/blog', function(){
-    return view('blog', [
-        'title_website' => 'diBlog-inAja'
-    ]);
-});
+Route::get('/blog', [BlogController::class, 'index']);
 
 Route::get('/project', function(){
     return view('project', [
