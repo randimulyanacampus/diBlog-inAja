@@ -28,16 +28,16 @@
     <div class="footer-container">
       <div class="footer-top">
         <div>
-          <h6 class="footer-title">Microsoft Store</h6>
+          <h6 class="footer-title">Tentang</h6>
           <ul class="footer-list">
             <li class="footer-list-item">
               <a href="#" class="footer-list-link">About</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Careers</a>
+              <a href="#" class="footer-list-link">Portfolio</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Affiliates</a>
+              <a href="#" class="footer-list-link">Kontak</a>
             </li>
             <li class="footer-list-item">
               <a href="#" class="footer-list-link">Sitemap</a>
@@ -45,53 +45,53 @@
           </ul>
         </div>
         <div>
-          <h6 class="footer-title">Microsoft Store</h6>
+          <h6 class="footer-title">Matkul Favorite</h6>
           <ul class="footer-list">
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">About</a>
+              <a href="#" class="footer-list-link">Algoritma dan Struktur Data</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Careers</a>
+              <a href="#" class="footer-list-link">Kecerdasan Buatan</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Affiliates</a>
+              <a href="#" class="footer-list-link">Pemrograman Beroriantasi Objek</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Sitemap</a>
+              <a href="#" class="footer-list-link">coming soon</a>
             </li>
           </ul>
         </div>
         <div>
-          <h6 class="footer-title">Microsoft Store</h6>
+          <h6 class="footer-title">Books Favorite</h6>
           <ul class="footer-list">
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">About</a>
+              <a href="#" class="footer-list-link">Atomic Habits</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Careers</a>
+              <a href="#" class="footer-list-link">Filosofi Teras</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Affiliates</a>
+              <a href="#" class="footer-list-link">The pyschology of Money</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Sitemap</a>
+              <a href="#" class="footer-list-link">Minset</a>
             </li>
           </ul>
         </div>
         <div>
-          <h6 class="footer-title">Microsoft Store</h6>
+          <h6 class="footer-title">Sosial Media</h6>
           <ul class="footer-list">
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">About</a>
+              <a href="#" class="footer-list-link">LinkedIn</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Careers</a>
+              <a href="#" class="footer-list-link">GitHub</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Affiliates</a>
+              <a href="#" class="footer-list-link">Twitter</a>
             </li>
             <li class="footer-list-item">
-              <a href="#" class="footer-list-link">Sitemap</a>
+              <a href="#" class="footer-list-link">Facebook</a>
             </li>
           </ul>
         </div>

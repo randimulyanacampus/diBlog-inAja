@@ -10,5 +10,11 @@ class Blog extends Model
     use HasFactory;
 
     protected $table = "blogs";
-    protected $fillable = ["judul", "isi"];
+    // protected $fillable = ["category_id", "judul", "isi"];
+    protected $guarded = ["id"];
+
+    public function category()
+    {
+        return $this->belongsTo(Category::class);
+    }
 }
